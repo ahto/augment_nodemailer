@@ -1,0 +1,24 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "nodemailer/nodemailer.d.ts": {
+      "commit": "1315d46f8066eec8c197914da88e98629ebc2254"
+    },
+    "node/node.d.ts": {
+      "commit": "1315d46f8066eec8c197914da88e98629ebc2254"
+    },
+    "nodemailer-direct-transport/nodemailer-direct-transport.d.ts": {
+      "commit": "1315d46f8066eec8c197914da88e98629ebc2254"
+    },
+    "nodemailer-smtp-transport/nodemailer-smtp-transport.d.ts": {
+      "commit": "1315d46f8066eec8c197914da88e98629ebc2254"
+    },
+    "nodemailer/nodemailer-types.d.ts": {
+      "commit": "1315d46f8066eec8c197914da88e98629ebc2254"
+    }
+  }
+}
